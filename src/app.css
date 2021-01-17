@@ -1,0 +1,36 @@
+.main-content {
+    margin: 0 auto;
+    width: 1280px;
+    padding: 10px;
+    background-color: #fff;
+}
+
+.ant-list-items .region-list__elem.region-list__elem_flatted {
+    padding: 0;
+}
+
+.region-list__link {
+    display: block;
+    padding: 8px 16px;
+    color: #000;
+}
+
+.region-list__link:hover {
+    background-color: #f3f3f3;
+    cursor: pointer;
+    color: #000;
+}
+
+.main-layout {
+    min-height: 100vh;
+}
+
+.action-line {
+    display: flex;
+    vertical-align: center;
+    padding: 0 15px 10px;
+}
+
+.search-input {
+    width: 300px;
+}
